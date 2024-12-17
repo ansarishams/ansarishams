@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ansari Shams</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Shams</h1>
 <h3 align="center">A Passionate Developer Crafting Code, Building Solutions</h3>
 
 <img align="right" alt="coding" width="500" height="400"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9521ixc7d01lrtlpssxqd20r72b0z3cs8gb0gr2atgx&ep=v1_gifs_search&rid=giphy.gif&ct=g">
