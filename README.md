@@ -1,14 +1,13 @@
 # 💫 Hi 👋, I'm Shams Ansari
-**A passionate Data Analyst || Bussiness Analyst**
+**Aspiring Data Analyst | SQL | Excel | Python | Power BI | Data Cleaning | Dashboarding | Business Insights**
 
 Email Me 👉 ✉️ **shamsbusiness4632.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Advance Python For Deep Data Analysis
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** shamsbusiness4632@gmail.com
 - 😄 **Pronouns:** Shams Ansari
-- ⚡ **Fun fact:** I Love Tech/Data and Tech/Data Love Me
+- ⚡ **Fun fact:** I Love **Tech/Data** and **Tech/Data** Love Me
 
  
 ## 🌐 Socials:
