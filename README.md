@@ -1,14 +1,13 @@
-# 💫 Hi 👋, I'm Shams Ansari
-**Aspiring Data Analyst | SQL | Excel | Python | Power BI | Data Cleaning | Dashboarding | Business Insights**
+   # 💫 Hi 👋, I'm Shams Ansari
+   **Aspiring Data Analyst**<br/>
+| SQL | Excel | Python | Power BI | Data Cleaning | Dashboarding | Business Insights
 
 Email Me 👉 ✉️ **shamsbusiness4632.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Advance Python For Deep Data Analysis
+- 🌱 **I’m currently learning:** Python and Power BI For Data Analysis
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** shamsbusiness4632@gmail.com
 - 😄 **Pronouns:** Shams Ansari
-- ⚡ **Fun fact:** I Love **Tech/Data** and **Tech/Data** Love Me
-
  
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamsbusiness4632@gmail.com) 
