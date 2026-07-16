@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **shamsbusiness4632.com** For Collaboration/Project or Anyt
 - 😄 **Pronouns:** Shams Ansari
  
 ## 🌐 Socials:
-[![Linkedin](https://www.linkedin.com/in/shamsul-hoda-s4632/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shamsul-hoda-s4632/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamsbusiness4632@gmail.com) 
 
 # 💻 Tech Stack:
