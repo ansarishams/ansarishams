@@ -6,13 +6,13 @@ Email Me 👉 ✉️ **shamsbusiness4632.com** For Collaboration/Project or Anyt
 
 - 🌱 **I’m currently learning:** Python and Power BI For Data Analysis
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamsbusiness4632@gmail.com)  shamsbusiness4632@gmail.com
+- 📫 **How to reach me:**  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamsbusiness4632@gmail.com)    shamsbusiness4632@gmail.com
 - 😄 **Pronouns:** Shamsul Hoda
 - **Nick Name**   Shams Ansari
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shamsul-hoda-s4632/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamsbusiness4632@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamsbusiness4632@gmail.com) 
 
 # 💻 Tech Stack:
 ## Skills
